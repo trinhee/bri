@@ -3,6 +3,7 @@ import localFont from "next/font/local";
 import { Inter } from 'next/font/google'
 import "./globals.css";
 
+/*
 const geistSans = localFont({
   src: "./fonts/GeistVF.woff",
   variable: "--font-geist-sans",
@@ -13,7 +14,7 @@ const geistMono = localFont({
   variable: "--font-geist-mono",
   weight: "100 900",
 });
-
+*/
 export const metadata: Metadata = {
   title: 'bri',
   description: 'website for 6 months',
