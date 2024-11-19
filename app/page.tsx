@@ -30,7 +30,7 @@ const girlfriendImages = [
   '/pic15.jpg?height=400&width=600',
   '/pic16.jpg?height=400&width=600',
   '/pic17.jpg?height=400&width=600',
-  '/pic18.png?height=400&width=600',
+  '/pic18.PNG?height=400&width=600',
 ]
 const songs = [
   { title: 'Not a Bad Thing', src: '/notabadthing.mp3' },
