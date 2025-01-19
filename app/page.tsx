@@ -170,7 +170,7 @@ export default function GirlfriendShowcase() {
       </section>
       <section id="footer" className="bg-gray-900 text-white py-20">
       <div className="container mx-auto px-6">
-        <h2 className="text-6xl font-extrabold text-center">6 MONTHS WOOOOO</h2>
+        <h2 className="text-6xl font-extrabold text-center">8 MONTHS WOOOOO</h2>
       </div>
     </section>
 
